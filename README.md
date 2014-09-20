@@ -15,4 +15,4 @@ Please note there are two different licenses applied to this port. The first is 
 
 In short, you can use my work as you like, without any restriction, need for compensation, attribution & for commercial or non-commercial usage. The Apache license mandated by Intel is similar, but retains the mandate that their license must be included in all derivative products.
 
-If you wish to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GFTBGC4D59KCU) I would certainly appreciate that.
+If you wish to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GFTBGC4D59KCU) I would certainly appreciate that. You can also TipMe in Bitcoin [here](http://DomT4.tip.me).
