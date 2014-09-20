@@ -1,6 +1,6 @@
 Package: com.DomT4.clearsans
 Name: ClearSans
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Description: An iOS Port of Intel’s open font Clear Sans.
 Depends: com.bytafont.bytafont2
