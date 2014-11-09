@@ -3,7 +3,7 @@ Clear-Sans_iOS
 
 My iOS port of Intel's open font [Clear Sans](https://01.org/clear-sans). 30+ hours of work and counting into this. I'll keep updating as regularly as required. 2100+ downloads to date.
 
-iOS7 only at the moment. Due to changes Apple made between iOS6 & iOS7 the way fonts are created is significantly different between the two iOS versions and consequently for now, this is iOS7 only.
+**iOS7 only at the moment.** Yes, It will be made to work for iOS 8 as soon as possible, but bear with me on that. It largely functions on iOS 8, but the system changes made by Apple on iOS 8 make a complete re-work necessary to fix outstanding issues and ensure compatibility going forwards.
 
 The easiest way to apply this is by:
 
